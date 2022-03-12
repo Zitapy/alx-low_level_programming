@@ -1,4 +1,4 @@
-include <stdlib.h>
+#:wqinclude <stdlib.h>
 #include <time.h>
 #include <stdio.h>
 /**
@@ -21,4 +21,4 @@ int main(void)
 	else
 		printf("Last digit of %i is %d and is less than 6 and not 0\n", n, last);
 	return (0);
-}
+i}
